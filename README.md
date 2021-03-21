@@ -1,6 +1,6 @@
 Hell O 👋
 
-🔭 I’m currently pursuing B.Tech. degree in IIT 
+🔭 I’m currently pursuing B.Tech. degree in IIT Dharwad
 
 📫 How to reach me: pranavkanire@gmail.com
 <!--
