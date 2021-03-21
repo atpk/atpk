@@ -1,5 +1,7 @@
 Hell O 👋
-🔭 I’m currently pursuing B.Tech. degree in IIT Dharwad
+
+🔭 I’m currently pursuing B.Tech. degree in IIT 
+
 📫 How to reach me: pranavkanire@gmail.com
 <!--
 **atpk/atpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
