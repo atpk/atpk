@@ -1,6 +1,6 @@
 Hell O 👋
 
-🔭 I’m currently pursuing B.Tech. degree in IIT Dharwad
+🔭 I’m currently working on integrating LLMs with the backend application
 
 📫 How to reach me: pranavkanire@gmail.com
 <!--
